@@ -1,0 +1,10 @@
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\bin\Release\netcoreapp3.1\capaEntidad.deps.json
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\bin\Release\netcoreapp3.1\capaEntidad.dll
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\bin\Release\netcoreapp3.1\capaEntidad.pdb
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\obj\Release\netcoreapp3.1\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\obj\Release\netcoreapp3.1\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\obj\Release\netcoreapp3.1\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\obj\Release\netcoreapp3.1\capaEntidad.AssemblyInfo.cs
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\obj\Release\netcoreapp3.1\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\obj\Release\netcoreapp3.1\capaEntidad.dll
+C:\Users\maste\Documents\Curso C#\Crud\capaEntidad\obj\Release\netcoreapp3.1\capaEntidad.pdb
