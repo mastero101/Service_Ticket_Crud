@@ -8,7 +8,7 @@ namespace capaDatos
 {
     public class CDCliente
     {
-        string CadenaConexion = "Server=serviceticket23.mysql.database.azure.com;User=mastero;Password=Alejandrof15;Port=3306;database=tickets";
+        string CadenaConexion = "Server=serviceticket23.mysql.database.azure.com;User=;Password=;Port=3306;database=tickets";
 
         public void Pruebaconexion()
         {
